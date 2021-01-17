@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ElonaA/goit-react-hw-02-feedback/static/css/main.26d5f71b.chunk.css",
+    "main.js": "/ElonaA/goit-react-hw-02-feedback/static/js/main.c7d5a7ac.chunk.js",
+    "main.js.map": "/ElonaA/goit-react-hw-02-feedback/static/js/main.c7d5a7ac.chunk.js.map",
+    "runtime-main.js": "/ElonaA/goit-react-hw-02-feedback/static/js/runtime-main.1db51574.js",
+    "runtime-main.js.map": "/ElonaA/goit-react-hw-02-feedback/static/js/runtime-main.1db51574.js.map",
+    "static/js/2.9ce9993e.chunk.js": "/ElonaA/goit-react-hw-02-feedback/static/js/2.9ce9993e.chunk.js",
+    "static/js/2.9ce9993e.chunk.js.map": "/ElonaA/goit-react-hw-02-feedback/static/js/2.9ce9993e.chunk.js.map",
+    "static/js/3.4c022966.chunk.js": "/ElonaA/goit-react-hw-02-feedback/static/js/3.4c022966.chunk.js",
+    "static/js/3.4c022966.chunk.js.map": "/ElonaA/goit-react-hw-02-feedback/static/js/3.4c022966.chunk.js.map",
+    "index.html": "/ElonaA/goit-react-hw-02-feedback/index.html",
+    "static/css/main.26d5f71b.chunk.css.map": "/ElonaA/goit-react-hw-02-feedback/static/css/main.26d5f71b.chunk.css.map",
+    "static/js/2.9ce9993e.chunk.js.LICENSE.txt": "/ElonaA/goit-react-hw-02-feedback/static/js/2.9ce9993e.chunk.js.LICENSE.txt",
+    "static/media/cat_hungry.3e431af5.png": "/ElonaA/goit-react-hw-02-feedback/static/media/cat_hungry.3e431af5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db51574.js",
+    "static/js/2.9ce9993e.chunk.js",
+    "static/css/main.26d5f71b.chunk.css",
+    "static/js/main.c7d5a7ac.chunk.js"
+  ]
+}
